@@ -1,0 +1,57 @@
+.topSection {
+
+}
+
+.flag {
+float: left;
+}
+
+.score {
+
+}
+
+.timer {
+
+}
+
+.buttons {
+
+}
+
+.listOfCountries {
+    clear: both;
+    width: 600px;
+    margin: 0px auto;
+    height: 200px;
+
+
+}
+
+.divList1 {
+ float: left;
+    width: 50%;
+}
+
+.divList2 {
+float: right;
+    width: 50%;
+}
+
+
+.divForTimerAndScore {
+    float: right;
+}
+
+.buttonGroup {
+    clear: both;
+    margin: 0px auto;
+    /*width: 90%;*/
+    /*min-width: 500px;*/
+    display:table;
+
+}
+
+.listItems
+{
+    list-style-type: none
+}

@@ -1,0 +1,4 @@
+# timer
+# score as zero at start
+# lebanese flag
+
